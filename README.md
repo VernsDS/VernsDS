@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Verns%20%7C%20ataaDEV&fontSize=70&fontColor=00FFFF&animation=twinkling&desc=Rafarhdan%20Athala%20%7C%20REST%20API%20%26%20Web%20Developer&descAlignY=75" alt="Banner ataaDEV" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=220&amp;section=header&amp;text=Verns%20%7C%20ataaDEV&amp;fontSize=70&amp;fontColor=00FFFF&amp;desc=Rafarhdan%20Athala%20-%20REST%20API%20dan%20Web%20Developer&amp;descAlignY=75" alt="Banner ataaDEV" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Pelajar+Kelas+7+di+SMPN+203+Jakarta;Mengeksplorasi+Kode+Sejak+Umur+10+Tahun;AI-Assisted+Full-Stack+Developer;Membangun+ataa+API+dan+Web+Services" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Pelajar+Kelas+7+di+SMPN+203+Jakarta;Mengeksplorasi+Kode+Sejak+Umur+10+Tahun;AI-Assisted+Full-Stack+Developer;Membangun+ataa+API+dan+Web+Services" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,15 +30,15 @@ Berikut adalah teknologi yang saya pakai sehari-hari dari sisi *frontend* hingga
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare" />
 </div>
 <br>
 
@@ -51,11 +51,11 @@ Berikut adalah teknologi yang saya pakai sehari-hari dari sisi *frontend* hingga
 ### Statistik Kode
 
 <div align="center">
-
-[![VernsDS GitHub Stats](https://github-readme-stats.vercel.app/api?username=VernsDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)](https://github.com/VernsDS)
-
-<br>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VernsDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF)](https://github.com/VernsDS)
-
+  <a href="https://github.com/VernsDS">
+    <img src="https://github-readme-stats.vercel.app/api?username=VernsDS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FFFF&amp;icon_color=00FFFF" alt="VernsDS GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/VernsDS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernsDS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FFFF" alt="Top Languages" />
+  </a>
 </div>
