@@ -1,24 +1,29 @@
-<!-- Banner Bergerak (Animasi Ombak & Bintang Berkedip) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22,100:00FFFF&height=220&section=header&text=Verns%20%7C%20ataaDEV&fontSize=70&fontColor=00FFFF&animation=twinkling&desc=Rafardan%20Athala%20%7C%20REST%20API%20Engineer%20%26%20Web%20Developer&descAlignY=75" alt="Banner ataaDEV" />
+  <!-- Banner Atas yang Sudah Diperbaiki Parameternya -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=Verns%20%7C%20ataaDEV&fontSize=70&fontColor=00FFFF&animation=twinkling&desc=Rafardhan%20Athallah%20-%20REST%20API%20and%20Web%20Developer&descAlignY=75" alt="Banner ataaDEV" />
 </div>
 
-<!-- Animasi Teks Mengetik -->
 <div align="center">
+  <!-- Animasi Teks Mengetik -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Pelajar+Kelas+7+di+SMPN+203+Jakarta;Membangun+ataa+API+%26+Web+Services;AI-Assisted+Full-Stack+Developer;Mengeksekusi+Kode,+Bukan+Sekadar+Copas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Pelajar+Kelas+7+di+SMPN+203+Jakarta;Mengeksplorasi+Kode+Sejak+Umur+10+Tahun;AI-Assisted+Full-Stack+Developer;Membangun+ataa+API+dan+Web+Services" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-Halo! Nama saya **Rafardhan Athala**, biasa dikenal di dunia maya dengan nama panggung **ataaDEV** atau **Verns**. Saya adalah pelajar kelas 7 di SMPN 203 Jakarta yang memiliki minat besar pada pengembangan *backend*, arsitektur REST API, dan tata kelola peladen (VPS).
+Halo! Saya **Rafardhan Athala**, tapi di dunia maya biasanya lebih dikenal dengan nama **ataaDEV** atau **Verns**. Saat ini saya masih duduk di bangku kelas 7 di SMPN 203 Jakarta.
 
-### 🤖 Filosofi AI Coding Saya
-Saya mengadopsi AI sebagai rekan pemrograman (AI-Assisted Coding). Namun, saya **tidak sekadar menulis prompt lalu menyalin hasilnya secara buta**. Saya membaca alur logikanya, mengevaluasi arsitektur yang ditawarkan, dan memastikan saya mengerti betul cara kerja setiap baris kode sebelum mengimplementasikannya. Bagiku, AI adalah alat bantu percepatan, sedangkan kendali logika dan keputusan akhir tetap berada di tangan pengembang.
+Perjalanan saya di dunia pemrograman sudah dimulai sejak saya berumur 10 tahun. Awalnya murni dari rasa penasaran mencari tahu dan mengotak-atik *script exploiting* di permainan Roblox. Dari keisengan tersebut, rasa ingin tahu saya justru makin liar. Saya mulai menelusuri bagaimana kecerdasan buatan (AI) bekerja dan belajar otodidak cara merakit sebuah website dari nol. 
 
-### 🛠️ Tech Stack & Alat Tempur
-Saya terbiasa merakit web dari sisi depan hingga manajemen pangkalan data dan server.
+Sekarang, fokus utama saya bukan sekadar main *game* lagi, tapi merancang infrastruktur *backend*, membangun REST API, dan mengelola pangkalan data serta *server* VPS Ubuntu.
+
+### Pendekatan Saya Terhadap AI (AI-Assisted Coding)
+Saya sangat terbuka menggunakan AI sebagai asisten ngoding. Tapi satu prinsip saya: **saya bukan tipe orang yang sekadar melempar prompt lalu menempelkan kodenya begitu saja**. Setiap baris logika yang dihasilkan AI selalu saya bedah, evaluasi, dan saya pastikan betul cara kerjanya. Saya yang pegang kendali atas keputusan arsitekturnya. Jadi, saya tahu persis apa yang dieksekusi oleh mesin yang saya bangun.
+
+### Tech Stack & Alat Tempur
+Berikut adalah bahasa dan teknologi yang biasa saya pakai sehari-hari dari sisi *frontend* hingga *backend*:
+
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,15 +38,21 @@ Saya terbiasa merakit web dari sisi depan hingga manajemen pangkalan data dan se
 </div>
 <br>
 
-### 🚀 Proyek Pilihan
-*   **[ataa API](https://github.com/VernsDS)** : Layanan metadata REST API terbuka yang saya bangun dan kelola sendiri.
-*   **[PublicFree.web.id](https://github.com/VernsDS)** : Platform pendaftaran *subdomain* gratis yang digerakkan dengan Express.js, MongoDB, dan sistem verifikasi Cloudflare Turnstile.
-*   **[Portofolio Web](https://github.com/VernsDS/porto)** : Situs portofolio pribadi dan pameran proyek digital saya (dibangun dengan React/Vite).
-*   **[HijauKita](https://github.com/VernsDS/HijauKita)** : *Template landing page open-source* untuk kampanye sosial dan lingkungan hidup dengan desain antarmuka *Glassmorphism* modern.
+### Proyek yang Sedang & Sudah Berjalan
+* **[ataa API](https://github.com/VernsDS)** : Layanan metadata REST API publik yang saya bangun dan rawat secara mandiri.
+* **[PublicFree.web.id](https://github.com/VernsDS)** : Platform pendaftaran *subdomain* gratis yang digerakkan menggunakan Express.js, MongoDB, dan sistem verifikasi Cloudflare Turnstile.
+* **[Portofolio Pribadi](https://github.com/VernsDS/porto)** : Website pameran proyek digital saya yang dikembangkan menggunakan React dan Vite.
+* **[HijauKita](https://github.com/VernsDS/HijauKita)** : Proyek *open-source template landing page* untuk kampanye sosial dan lingkungan hidup dengan sentuhan desain *Glassmorphism* modern.
 
-### 📊 Statistik GitHub
+### Statistik Kode
+*(Catatan: Kadang GitHub butuh waktu beberapa detik untuk memuat gambar ini pertama kali)*
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VernsDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="VernsDS GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernsDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top Languages" />
+  <a href="https://github.com/VernsDS">
+    <img src="https://github-readme-stats.vercel.app/api?username=VernsDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" alt="VernsDS GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/VernsDS">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VernsDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Top Languages" />
+  </a>
 </div>
