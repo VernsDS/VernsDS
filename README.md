@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=220&amp;section=header&amp;text=Verns%20%7C%20ataaDEV&amp;fontSize=70&amp;fontColor=00FFFF&amp;desc=Rafarhdan%20Athala%20-%20REST%20API%20dan%20Web%20Developer&amp;descAlignY=75" alt="Banner ataaDEV" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0D1117&amp;height=220&amp;section=header&amp;text=Verns%20%7C%20ataaDEV&amp;fontSize=70&amp;fontColor=00FFFF&amp;desc=Rafardhan%20Athala%20-%20REST%20API%20dan%20Web%20Developer&amp;descAlignY=75" alt="Banner ataaDEV - Rafardhan Athala" />
 </div>
 
 <div align="center">
@@ -16,11 +16,11 @@
 
 <br>
 
-Halo! Saya **Rafarhdan Athala**, di dunia maya biasanya lebih akrab disapa **ataaDEV** atau **Verns**. Saat ini saya masih duduk di bangku kelas 7 di SMPN 203 Jakarta.
+Halo! Saya **Rafardhan Athala**, di dunia maya biasanya lebih akrab disapa **ataaDEV** atau **Verns** (`@VernsDS`). Saat ini saya masih duduk di bangku kelas 7 di SMPN 203 Jakarta.
 
-Perjalanan saya di dunia pemrograman sudah dimulai sejak berumur 10 tahun. Awalnya murni karena penasaran mencari tahu dan mengotak-atik *script exploiting* di permainan Roblox. Dari keisengan itu, rasa ingin tahu saya justru makin berkembang. Saya mulai menelusuri bagaimana kecerdasan buatan (AI) bekerja dan belajar otodidak cara merakit sebuah website dari nol. 
+Perjalanan saya di dunia pemrograman sudah dimulai sejak berumur 10 tahun. Awalnya murni karena penasaran mencari tahu dan mengotak-atik *script exploiting* di permainan Roblox. Dari keisengan itu, rasa ingin tahu saya justru makin berkembang. Saya mulai menelusuri bagaimana kecerdasan buatan (AI) bekerja dan belajar otodidak cara merakit sebuah website dari nol.
 
-Sekarang, fokus utama saya bukan sekadar main *game* lagi, tapi merancang infrastruktur *backend*, membangun REST API, dan mengelola pangkalan data serta peladen VPS Ubuntu.
+Sekarang, fokus utama saya bukan sekadar main *game* lagi, tapi merancang infrastruktur *backend*, membangun REST API, mengelola pangkalan data serta peladen VPS Ubuntu, dan mengembangkan situs portofolio di **[ataa.my.id](https://ataa.my.id)** serta layanan digital di **[store.ataa.my.id](https://store.ataa.my.id)**.
 
 ### Pendekatan Saya Terhadap AI (AI-Assisted Coding)
 Saya sangat terbuka menggunakan AI sebagai asisten ngoding. Tapi satu prinsip utama saya: saya bukan tipe orang yang sekadar melempar prompt lalu menempelkan kodenya begitu saja. Setiap baris logika yang dihasilkan AI selalu saya bedah, evaluasi, dan pastikan betul cara kerjanya. Saya yang pegang kendali atas keputusan arsitekturnya. Jadi, saya tahu persis apa yang dieksekusi oleh mesin yang saya bangun.
@@ -43,10 +43,11 @@ Berikut adalah teknologi yang saya pakai sehari-hari dari sisi *frontend* hingga
 <br>
 
 ### Proyek Pilihan
-* **[ataa API](https://github.com/VernsDS)** : Layanan metadata REST API publik yang saya bangun dan rawat secara mandiri.
-* **[PublicFree.web.id](https://github.com/VernsDS)** : Platform pendaftaran *subdomain* gratis yang digerakkan menggunakan Express.js, MongoDB, dan sistem verifikasi Cloudflare Turnstile.
-* **[Portofolio Pribadi](https://github.com/VernsDS/porto)** : Website pameran proyek digital saya yang dikembangkan menggunakan React dan Vite.
-* **[HijauKita](https://github.com/VernsDS/HijauKita)** : Proyek *open-source template landing page* untuk kampanye sosial dan lingkungan hidup dengan desain *Glassmorphism* modern.
+- **[Portofolio Pribadi (`ataa.my.id`)](https://ataa.my.id)** : Situs resmi dan pameran proyek digital **Rafardhan Athala / ataaDEV**.
+- **[Verns Store (`store.ataa.my.id`)](https://store.ataa.my.id)** : Layanan dan produk digital yang dikelola oleh **ataaDEV / Verns**.
+- **[ataa API](https://github.com/VernsDS)** : Layanan metadata REST API publik yang saya bangun dan rawat secara mandiri.
+- **[PublicFree.web.id](https://github.com/VernsDS)** : Platform pendaftaran *subdomain* gratis yang digerakkan menggunakan Express.js, MongoDB, dan sistem verifikasi Cloudflare Turnstile.
+- **[HijauKita](https://github.com/VernsDS/HijauKita)** : Proyek *open-source template landing page* untuk kampanye sosial dan lingkungan hidup dengan desain *Glassmorphism* modern.
 
 ### Statistik Kode
 
